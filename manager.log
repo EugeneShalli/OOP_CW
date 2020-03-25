@@ -1,15 +1,5 @@
-manager.py[LINE:737]# INFO     [2019-12-25 08:16:48,305] Program started
-manager.py[LINE:30]# INFO     [2019-12-25 08:16:48,423] Main window created
-manager.py[LINE:33]# INFO     [2019-12-25 08:16:48,424] Records from DataBase viewed
-manager.py[LINE:295]# INFO     [2019-12-25 08:16:50,510] Put to bucket
-manager.py[LINE:295]# INFO     [2019-12-25 08:16:51,503] Put to bucket
-manager.py[LINE:295]# INFO     [2019-12-25 08:16:52,438] Put to bucket
-manager.py[LINE:295]# INFO     [2019-12-25 08:16:53,526] Put to bucket
-manager.py[LINE:501]# INFO     [2019-12-25 08:16:54,076] Open the bucket
-manager.py[LINE:700]# INFO     [2019-12-25 08:17:01,632] Delete position
-manager.py[LINE:700]# INFO     [2019-12-25 08:17:03,606] Delete position
-manager.py[LINE:700]# INFO     [2019-12-25 08:17:05,006] Delete position
-manager.py[LINE:700]# INFO     [2019-12-25 08:17:07,358] Delete position
-manager.py[LINE:214]# INFO     [2019-12-25 08:17:49,479] Button update_record pressed
-thread.py[LINE:5]# INFO     [2019-12-25 08:17:50,970] ThreadLog
-manager.py[LINE:751]# INFO     [2019-12-25 08:17:50,970] Program finished
+manager.py[LINE:737]# INFO     [2020-03-25 12:23:29,419] Program started
+manager.py[LINE:30]# INFO     [2020-03-25 12:23:29,936] Main window created
+manager.py[LINE:33]# INFO     [2020-03-25 12:23:29,940] Records from DataBase viewed
+manager.py[LINE:262]# INFO     [2020-03-25 12:23:32,808] Button add_new pressed
+manager.py[LINE:255]# INFO     [2020-03-25 12:23:49,302] Button delete_records pressed

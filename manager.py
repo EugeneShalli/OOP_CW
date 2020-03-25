@@ -5,7 +5,7 @@ import pyodbc
 import csv
 import database as base
 from xml.etree import ElementTree
-import thread as thr
+import thread as pip
 import pdfkit
 from xml.dom.minidom import parse, parseString
 from abc import ABC, abstractmethod

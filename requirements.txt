@@ -1,0 +1,9 @@
+beautifulsoup4==4.8.2
+bs4==0.0.1
+fpdf==1.7.2
+lxml==4.5.0
+pdfkit==0.6.1
+Pillow==7.0.0
+pyodbc==4.0.30
+reportlab==3.5.42
+soupsieve==2.0
