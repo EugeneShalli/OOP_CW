@@ -1,5 +1,0 @@
-manager.py[LINE:737]# INFO     [2020-03-25 12:23:29,419] Program started
-manager.py[LINE:30]# INFO     [2020-03-25 12:23:29,936] Main window created
-manager.py[LINE:33]# INFO     [2020-03-25 12:23:29,940] Records from DataBase viewed
-manager.py[LINE:262]# INFO     [2020-03-25 12:23:32,808] Button add_new pressed
-manager.py[LINE:255]# INFO     [2020-03-25 12:23:49,302] Button delete_records pressed

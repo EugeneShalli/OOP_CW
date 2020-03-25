@@ -1,3 +1,4 @@
+import sqlite3
 import tkinter as tk
 from tkinter import ttk
 import logging
@@ -21,9 +22,10 @@ class DB:
     def __init__(self):
         self.server = 'DESKTOP-T7F4G41'
         self.database = 'example'
-        self.conn = pyodbc.connect(
-            'DRIVER={ODBC Driver 17 for SQL Server}; SERVER=' + self.server + '; DATABASE=' + self.database +
-            '; Trusted_Connection=yes;' + ' MARS_Connection = Yes;')
+        self.conn = sqlite3.connect('books.db')
+        # self.conn = pyodbc.connect(
+        #     'DRIVER={ODBC Driver 17 for SQL Server}; SERVER=' + self.server + '; DATABASE=' + self.database +
+        #     '; Trusted_Connection=yes;' + ' MARS_Connection = Yes;')
         self.c = self.conn.cursor()
 
         print("Successful connection")
